@@ -92,7 +92,7 @@ We value stability. To run the test suite:
 ```bash
 flutter test
 ```
-Detailed testing workflows can be found in `full_report.md` or via internal testing documentation.
+Detailed technical breakdowns and architectural insights can be found in `full_report.md`.
 
 ---
 
